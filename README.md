@@ -12,8 +12,8 @@ Create a web application that summarizes YouTube video content using Google's Ge
 ### Backend
 - [ ] Set up Python backend using FastAPI/Flask
 - [ ] Implement YouTube transcript retrieval:
-  - Primary: Use youtube-transcript-api
-  - Fallback: Implement yt-dlp + Whisper pipeline
+- [ ]Primary: Use youtube-transcript-api
+- [ ]Fallback: Implement yt-dlp + Whisper pipeline
 - [ ] Integrate Google Generative AI (Gemini) API
 - [ ] Create summarization endpoints
 
@@ -27,11 +27,11 @@ Create a web application that summarizes YouTube video content using Google's Ge
 ### Backend Stack
 - Python 
 - Key Dependencies:
-  - youtube-transcript-api
-  - yt-dlp
-  - whisper (or google-cloud-speech)
-  - google-generativeai
-  - FastAPI/Flask
+- youtube-transcript-api
+- yt-dlp
+- whisper (or google-cloud-speech)
+- google-generativeai
+- FastAPI/Flask
 
 ### API Integration
 - [ ] Set up Gemini API authentication
